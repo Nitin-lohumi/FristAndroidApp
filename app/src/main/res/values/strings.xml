@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">App1</string>
+    <string name="app_name">RollDice</string>
+    <string name="btn1name">Dark mode</string>
+    <string name="btn2">roll dice</string>
+    <string name="Dice">Diceimage</string>
+    <string name="header">Dice rollar</string>
 </resources>
